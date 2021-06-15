@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on Chekwei&#39;s Portfolio</title>
+    <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Chekwei&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improving model performance on minority class with SMOTE and ADASYN</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project2/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project2/</guid>
+      <description>Overview The dataset is related to red variant of the Portuguese &amp;ldquo;Vinho Verde&amp;rdquo; wine, which contains physicochemical of 1599 records of red wines. Initially, dataset included a dependent feature [quality], which is a score between 0 to 10. The higher the score, the better the wine. However, most of the scores are concentrated between 5 or 6.
+Project has turned this into a classification problem, by setting an arbitrary cutoff for wine quality of 7 and higher classified as &amp;lsquo;good/1&amp;rsquo; and the remainder as &amp;lsquo;bad/0&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Iowa Housing Prediction using end-to-end ML Pipeline</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project1/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project1/</guid>
+      <description>Project Overview With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this project aims to predict the final price of each home.
+Objective Project aims to build an end-to-end ML pipeline that allows business to train and predict house prices in two ways as they wish
+  as a regression problem
+  as a classification problem (by binning the prices into 4 categorical quartiles)</description>
+    </item>
+    
+  </channel>
+</rss>
