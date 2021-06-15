@@ -1,2 +1,4 @@
 # Chek_Wei_Portfolio
-my portfolio via Hugo
+Link: https://chekwei4.github.io/Chek_Wei_Portfolio/
+
+Thank you for dropping by.
