@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on Chekwei&#39;s Portfolio</title>
+    <title>My Data Journey on Chekwei&#39;s Portfolio</title>
     <link>https://chekwei4.github.io/Chek_Wei_Portfolio/</link>
-    <description>Recent content in Data Science Portfolio on Chekwei&#39;s Portfolio</description>
+    <description>Recent content in My Data Journey on Chekwei&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curse of dimensionality: Feature Selections with Chi-Square Test, ANOVA Test and RFE.</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</guid>
+      <description>Overview Overview 1
+Objective Objective 1
+Results Results 1
+Conclusion Conclusion 1
+Github repository</description>
+    </item>
+    
     <item>
       <title>Improving model performance on minority class with SMOTE and ADASYN</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project2/</link>

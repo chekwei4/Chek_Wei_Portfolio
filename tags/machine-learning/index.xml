@@ -6,7 +6,20 @@
     <description>Recent content in machine learning on Chekwei&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curse of dimensionality: Feature Selections with Chi-Square Test, ANOVA Test and RFE.</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</guid>
+      <description>Overview Overview 1
+Objective Objective 1
+Results Results 1
+Conclusion Conclusion 1
+Github repository</description>
+    </item>
+    
     <item>
       <title>Improving model performance on minority class with SMOTE and ADASYN</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project2/</link>
