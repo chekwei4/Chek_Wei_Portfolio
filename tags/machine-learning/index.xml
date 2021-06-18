@@ -8,16 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curse of dimensionality: Feature Selections with Chi-Square Test, ANOVA Test and RFE.</title>
+      <title>Curse of dimensionality: Feature Selections with Chi-Square Test, ANOVA Test and RFE</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</guid>
-      <description>Overview Overview 1
-Objective Objective 1
-Results Results 1
-Conclusion Conclusion 1
-Github repository</description>
+      <description>Overview Dataset includes 20 features (RAM, Internal Memory, Phone Width, Phone Height, Phone Weight, With/Without Bluetooh, Camera Pixels etc). The goal is to find predict actual price range of each of the phones.
+Project&amp;rsquo;s Objective To examine how different feature selection techniques will improve classification accuracy.
+Model used throughout the project will be RandomForestClassier with default hyperparameters only.
+Models  Baseline Model  Kitchen sink method, which included all features.</description>
     </item>
     
     <item>
