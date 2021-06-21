@@ -2,32 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project4/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/flask/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/heroku/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/post/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/feature-selection/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/post/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

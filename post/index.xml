@@ -6,7 +6,23 @@
     <description>Recent content in Projects on Chekwei&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Car Resale Price Prediction App Deployed with Flask and Heroku</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project4/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project4/</guid>
+      <description>Overview Dataset from Cardekho, leading car sale platform in India, contains information about used cars, with features like km_driven, fuel type, transmission type, number of previous owners and present retail price.
+Project&amp;rsquo;s Objective To predict the car resale price and to productionize the project to be used in real world.
+Model RandomizedSearchCV performed with RandomForestRegressor to give best hyperparameters.
+R2: 0.92
+MSE: 1.84
+Distribution plot
+y_test against y_pred
+ Scatter plot</description>
+    </item>
+    
     <item>
       <title>Curse of dimensionality: Feature Selection with Chi-Square Test, ANOVA Test and RFE</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project3/</link>

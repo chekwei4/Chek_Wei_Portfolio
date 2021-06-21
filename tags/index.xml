@@ -6,22 +6,40 @@
     <description>Recent content in Tags on Chekwei&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>feature selection</title>
-      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/feature-selection/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <title>flask</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/flask/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/feature-selection/</guid>
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heroku</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/heroku/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/heroku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feature selection</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/feature-selection/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/feature-selection/</guid>
       <description></description>
     </item>
     
