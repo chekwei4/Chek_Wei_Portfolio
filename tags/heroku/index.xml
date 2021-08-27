@@ -6,7 +6,20 @@
     <description>Recent content in heroku on Chekwei&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A simple ML App dockerized and deployed on Google Cloud Platform</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project5/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project5/</guid>
+      <description>Overview Project&amp;rsquo;s Objective Simple web app that predicts survivability during the Titanic Disaster. Powered by Streamlit. Dockerized and deployed on Google Cloud Platform.
+  Simple ML web app, trained with Scikit-Learn and built via Streamlit
+  Experiment with dockerization and further deploy on cloud platforms
+  Model validation score is around 83% via Random Forest Classifier Dataset available via kaggle
+  Dockerfile Dockerfile is like a list of steps/commands used to assemble a Docker image</description>
+    </item>
+    
     <item>
       <title>Car Resale Price Prediction App Deployed with Flask and Heroku</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/post/project4/</link>

@@ -6,20 +6,29 @@
     <description>Recent content in Tags on Chekwei&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chekwei4.github.io/Chek_Wei_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>flask</title>
-      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/flask/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <title>cloud</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/cloud/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/flask/</guid>
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/docker/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>heroku</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/heroku/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/heroku/</guid>
       <description></description>
@@ -28,9 +37,18 @@
     <item>
       <title>machine learning</title>
       <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flask</title>
+      <link>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/flask/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chekwei4.github.io/Chek_Wei_Portfolio/tags/flask/</guid>
       <description></description>
     </item>
     
